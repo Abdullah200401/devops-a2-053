@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # DevOps Assignment 2
 
@@ -20,3 +21,7 @@ Open index.html in a web browser.
 
 ## Docker
 The website will be served using Nginx inside a Docker container.
+=======
+# devops-a2-053
+DevOps Assignment 2 - Portfolio, Docker and GitHub Actions
+>>>>>>> 64d9ee3a8463fca6d6d82e92c7cc8d5e38efd8d8
